@@ -28,12 +28,15 @@ Will Create a log on what my plans are soon (I really hope i follow through with
 
 ## AWS (I have not made a full roadmap I wanna follow) 
 
-| Tasks                        | Progress           |  Date       |
+| Tasks                        | Progress           |  Date       | 
 | ---------------------------- |:------------------:| -----------:|
-| Cloud Computing Practitioner | Ongoing 🏃         | 10/07/25    |
+| Cloud Computing Practitioner | Ongoing[^1] 🏃     | 2025        |
 
 ## Game Development (No roadmap to follow either)
 | Tasks              | Progress           |  Date       |
 | ------------------ |:------------------:| -----------:|
-| Godot              | Ongoing 🏃         | 2024        |
+| Godot              | Hiatus? ❓         | 2024        |
 | GMTK Game Jam 2025 | Haven't Started 😢 | 2024        |
+
+[^1]: Did the Course for Cloud Computing Practitioner in AWS Skill
+
