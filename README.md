@@ -47,3 +47,7 @@ Added as off Oct 31:
 
 [^1]: Did the Course for Cloud Computing Practitioner in AWS Skill
 
+
+## Projects
+[Food-POI-Data-Collection-ETL-Pipeline-Project](https://github.com/muchcauliflower/Food-POI-Data-Collection-ETL-Pipeline-Project)
+
