@@ -24,7 +24,14 @@ Will Create a log on what my plans are soon (I really hope i follow through with
 | Spark and PySpark | Haven't Started 😢 |             |
 | Data Platforming  | Haven't Started 😢 |             |
 | Data Pipelines    | Haven't Started 😢 |             |
-| Project(s)        | Haven't Started 😢 |             |
+| Project(s)        | Ongoing 🏃         | 2025        |
+
+Added as off Oct 31:
+| Tasks                | Progress           |  Date       |
+| -------------------- |:------------------:| -----------:|
+| Azure                | Ongoing 🏃         | 2025        |
+| IBM Data Engineering | Ongoing 🏃         | 2025        |
+
 
 ## AWS (I have not made a full roadmap I wanna follow) 
 
@@ -36,7 +43,7 @@ Will Create a log on what my plans are soon (I really hope i follow through with
 | Tasks              | Progress           |  Date       |
 | ------------------ |:------------------:| -----------:|
 | Godot              | Hiatus? ❓         | 2024        |
-| GMTK Game Jam 2025 | Haven't Started 😢 | 2024        |
+| GMTK Game Jam 2025 | Participated       | 2025        |
 
 [^1]: Did the Course for Cloud Computing Practitioner in AWS Skill
 
